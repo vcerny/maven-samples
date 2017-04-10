@@ -18,5 +18,13 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
+         
+  <repositories>
+    <repository>
+        <id>central</id>
+        <name>Central</name>
+        <url>http://54.171.121.80:8081/nexus/content/repositories/central</url>
+    </repository>
+</repositories>
 
 </project>
